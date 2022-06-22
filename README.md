@@ -1,3 +1,3 @@
 # Demo
 
-This is Demo Project for the users to show some handson
+This is Demo Project for the users to show some handson / activity
